@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amazon-clone-font/static/css/main.b5a77c20.chunk.css",
+    "main.js": "/amazon-clone-font/static/js/main.fc412bf6.chunk.js",
+    "main.js.map": "/amazon-clone-font/static/js/main.fc412bf6.chunk.js.map",
+    "runtime-main.js": "/amazon-clone-font/static/js/runtime-main.b0bf742e.js",
+    "runtime-main.js.map": "/amazon-clone-font/static/js/runtime-main.b0bf742e.js.map",
+    "static/css/2.cbe8d6b4.chunk.css": "/amazon-clone-font/static/css/2.cbe8d6b4.chunk.css",
+    "static/js/2.a2a9587f.chunk.js": "/amazon-clone-font/static/js/2.a2a9587f.chunk.js",
+    "static/js/2.a2a9587f.chunk.js.map": "/amazon-clone-font/static/js/2.a2a9587f.chunk.js.map",
+    "index.html": "/amazon-clone-font/index.html",
+    "static/css/2.cbe8d6b4.chunk.css.map": "/amazon-clone-font/static/css/2.cbe8d6b4.chunk.css.map",
+    "static/css/main.b5a77c20.chunk.css.map": "/amazon-clone-font/static/css/main.b5a77c20.chunk.css.map",
+    "static/js/2.a2a9587f.chunk.js.LICENSE.txt": "/amazon-clone-font/static/js/2.a2a9587f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0bf742e.js",
+    "static/css/2.cbe8d6b4.chunk.css",
+    "static/js/2.a2a9587f.chunk.js",
+    "static/css/main.b5a77c20.chunk.css",
+    "static/js/main.fc412bf6.chunk.js"
+  ]
+}
