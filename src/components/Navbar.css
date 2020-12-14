@@ -1,0 +1,29 @@
+.nav__image{
+    height: 50px;
+    width: 140px;
+}
+
+
+
+.form__fixed{
+    margin-left: 200px !important;
+    
+}
+.nav__position{
+    position: fixed !important;
+    z-index: 100;
+    width: 100% !important;
+}
+
+@media only screen and (max-width: 700px) {
+    .form__fixed{
+        margin-left: 0px !important;
+        
+    }
+  }
+@media only screen and (min-width: 600px) {
+    .form__fixed{
+        padding: 0px !important;
+        
+    }
+  }
